@@ -10,7 +10,6 @@ import lombok.ToString;
 @Getter
 @ToString
 public class PautaCadastradaResponse {
-
 	@Id
 	private UUID id;
 
